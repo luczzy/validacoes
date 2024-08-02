@@ -7,7 +7,9 @@ O projeto consiste em validar email e cpf, utilizando ferramentas de Javascript.
 
 - **Validação de Email:** Verifica se o email fornecido está no formato correto e é válido de acordo com as normas gerais de email.
 
-![Preview]
+## Preview
+
+![Preview](/cpf/img/cpfvideo.gif)
 
 ## ``Validação de cpf``
 
@@ -72,6 +74,7 @@ function validarEmail(email) {
     // Código para validar o email
 }
 ```
+[bka](img/emailvideo.gif)
 
 ## Conclusão:
 
